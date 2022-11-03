@@ -104,24 +104,3 @@ for i in range(0,number):
 W = W / number
 print("Average is",W)
 
-JASTI_VIKAS_415_A4_CODE.py
-Displaying JASTI_VIKAS_415_A4_CODE.py.
-A4 Simulation-based Measurements and Accuracy
-Neha Karanjkar
-•
-Apr 6 (Edited May 21)
-17.5/20
-17.5 points out of possible 20
-Due Apr 24
-Problems and Submission instructions in the attached pdf.
-This is an Individual assignment.
-A4.pdf
-PDF
-Class comments
-Your work
-Graded
-JASTI_VIKAS_415_A4_report.pdf
-PDF
-JASTI_VIKAS_415_A4_CODE.py
-Text
-Private comments
